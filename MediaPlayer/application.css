@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.slider > .thumb {
+     -fx-background-color: white;
+}
+#slider>.track{
+	-fx-background-color:#ACACAC;
+}
+#pane{
+	-fx-background-image: url('background2.png');
+}
+#mb1{
+	-fx-background-image: url('none.png');
+}
+
+
